@@ -31,8 +31,12 @@ DOMAIN-SUFFIX,anilibria.tv
 DOMAIN-SUFFIX,antizapret.prostovpn.org
 DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net
 DOMAIN-SUFFIX,api.github.com
+DOMAIN-SUFFIX,api.pwnedpasswords.com
 DOMAIN-SUFFIX,auth.openai.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,aimlab.gg
+DOMAIN-SUFFIX,aimlabs.com
+DOMAIN-SUFFIX,aimlabspages.kinsta.cloud
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobeereg.com
 DOMAIN-SUFFIX,adobelogin.com
@@ -49,6 +53,7 @@ DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,apt.releases.hashicorp.com
 DOMAIN-SUFFIX,aqicn.org
 DOMAIN-SUFFIX,arc.intel.com
+DOMAIN-SUFFIX,arkoselabs.com
 DOMAIN-SUFFIX,artifacts.elastic.co
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,auth.grazie.ai
@@ -60,6 +65,7 @@ DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,bitcoin.org
 DOMAIN-SUFFIX,bitru.org
+DOMAIN-SUFFIX,bloody.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,booktracker.org
@@ -73,9 +79,11 @@ DOMAIN-SUFFIX,beamng.tech
 DOMAIN-SUFFIX,bng.gg
 DOMAIN-SUFFIX,beamng.gmbh
 DOMAIN-SUFFIX,beammp.com
+DOMAIN-SUFFIX,beyond.hg-cdn.com
 DOMAIN-SUFFIX,bowsersinsidestory.com
 DOMAIN-SUFFIX,brawlstarsgame.com
 DOMAIN-SUFFIX,feed.rutracker.cc
+DOMAIN-SUFFIX,caesium.app
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,cdn.id.supercell.com
 DOMAIN-SUFFIX,cdn.oaistatic.com
@@ -119,6 +127,7 @@ DOMAIN-SUFFIX,cloud.mongodb.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ech.com
+DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,colta.ru
 DOMAIN-SUFFIX,cdn.betterttv.net
 DOMAIN-SUFFIX,chaturbate.com
@@ -211,8 +220,10 @@ DOMAIN-SUFFIX,discord.new
 DOMAIN-SUFFIX,discord.gift
 DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,distrochooser.de
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,easylist-downloads.adblockplus.org
+DOMAIN-SUFFIX,eaton.com
 DOMAIN-SUFFIX,edge.microsoft.com
 DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,ej.ru
@@ -221,6 +232,7 @@ DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,essential.gg
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,event.on24.com
+DOMAIN-SUFFIX,events.ccc.de
 DOMAIN-SUFFIX,exler.ru
 DOMAIN-SUFFIX,e621.net
 DOMAIN-SUFFIX,static1.e621.net
@@ -237,6 +249,7 @@ DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,fork.pet
 DOMAIN-SUFFIX,forklog.com
 DOMAIN-SUFFIX,formula1.com
+DOMAIN-SUFFIX,forum.dcs.world
 DOMAIN-SUFFIX,forum.voynaplemyon.com
 DOMAIN-SUFFIX,fw-download.ubnt.com
 DOMAIN-SUFFIX,fw-update.ubnt.com
@@ -247,6 +260,8 @@ DOMAIN-SUFFIX,game.brawlstarsgame.com
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,geo.captcha-delivery.com
+DOMAIN-SUFFIX,ghostrc.game.idtech.services
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,gllto.glpals.com
 DOMAIN-SUFFIX,grok.com
@@ -296,6 +311,7 @@ DOMAIN-SUFFIX,ipburger.com
 DOMAIN-SUFFIX,island-of-pleasure.site
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
+DOMAIN-SUFFIX,itdog.info
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,k1-api.wbagora.com
@@ -305,6 +321,7 @@ DOMAIN-SUFFIX,kpapp.link
 DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lib.rus.ec
 DOMAIN-SUFFIX,libgen.rs
+DOMAIN-SUFFIX,libsdl.org
 DOMAIN-SUFFIX,linuxiac.com
 DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,login.amd.com
@@ -325,6 +342,7 @@ DOMAIN-SUFFIX,metacritic.com
 DOMAIN-SUFFIX,metallica-api.wbagora.com
 DOMAIN-SUFFIX,meteo.paraplan.net
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com
+DOMAIN-SUFFIX,modartt.com
 DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,monster.ie
 DOMAIN-SUFFIX,mouser.com
@@ -348,6 +366,7 @@ DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,nordaccount.com
 DOMAIN-SUFFIX,nordcdn.com
 DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,notebooklm.google
@@ -399,6 +418,7 @@ DOMAIN-SUFFIX,nintendowifi.net
 DOMAIN-SUFFIX,nintendowii.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oasis.app
+DOMAIN-SUFFIX,ohmyz.sh
 DOMAIN-SUFFIX,omv-extras.org
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,onlineradiobox.com
@@ -413,6 +433,7 @@ DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,os.mbed.com
+DOMAIN-SUFFIX,packages.cachyos.org
 DOMAIN-SUFFIX,packages.gitlab.com
 DOMAIN-SUFFIX,pandasecurity.com
 DOMAIN-SUFFIX,path3.xtracloud.net
@@ -423,6 +444,7 @@ DOMAIN-SUFFIX,pb.wtf
 DOMAIN-SUFFIX,pcbway.com
 DOMAIN-SUFFIX,pcbway.ru
 DOMAIN-SUFFIX,pdq.com
+DOMAIN-SUFFIX,penpot.app
 DOMAIN-SUFFIX,php.su
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,piccy.info
@@ -489,6 +511,7 @@ DOMAIN-SUFFIX,atomic.stream.voidboost.cc
 DOMAIN-SUFFIX,ranger.stream.voidboost.cc
 DOMAIN-SUFFIX,ru.iherb.com
 DOMAIN-SUFFIX,rus.delfi.lv
+DOMAIN-SUFFIX,saerasoft.com
 DOMAIN-SUFFIX,saverudata.info
 DOMAIN-SUFFIX,searchfloor.org
 DOMAIN-SUFFIX,sebeanus.online
@@ -522,6 +545,8 @@ DOMAIN-SUFFIX,signon2.deadorbit.net
 DOMAIN-SUFFIX,signon2.gravityshavings.net
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,spiceworks.com
+DOMAIN-SUFFIX,spiceworksstatic.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,streamable.com
 DOMAIN-SUFFIX,st.kinovod.net
@@ -599,6 +624,7 @@ DOMAIN-SUFFIX,uniongang.tv
 DOMAIN-SUFFIX,vectorworks.net
 DOMAIN-SUFFIX,velocidrone.com
 DOMAIN-SUFFIX,veritas.com
+DOMAIN-SUFFIX,vintagestory.at
 DOMAIN-SUFFIX,vipdrive.net
 DOMAIN-SUFFIX,vrv.co
 DOMAIN-SUFFIX,viber.com
@@ -634,6 +660,8 @@ DOMAIN-SUFFIX,www.hetzner.com
 DOMAIN-SUFFIX,www.hrw.org
 DOMAIN-SUFFIX,www.jabra.com
 DOMAIN-SUFFIX,www.microchip.com
+DOMAIN-SUFFIX,www.montechpc.com
+DOMAIN-SUFFIX,www.noctua.at
 DOMAIN-SUFFIX,www.postfix.org
 DOMAIN-SUFFIX,www.qualcomm.com
 DOMAIN-SUFFIX,www.smashwords.com
