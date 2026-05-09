@@ -180,7 +180,6 @@ DOMAIN-SUFFIX,driver.gaomon.net
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,dis.gd
-DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
 DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,discord.co
@@ -212,7 +211,6 @@ DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
 DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,discordstatus.com
-DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discordcdn.com
 DOMAIN-SUFFIX,discord.dev
